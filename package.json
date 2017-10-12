@@ -28,7 +28,7 @@
   "dependencies": {
   },
   "devDependencies": {
-    "moment": "2.x.x"
+    "moment": "2.x.x",
     "babel-core": "^6.5.2",
     "babel-eslint": "^7.2.3",
     "babel-preset-react-native": "^1.8.0",
